@@ -18,9 +18,6 @@
 
 <h3 align="left">📈 my github stats</h3>
 <br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vawoo&show_icons=true&locale=en&layout=compact" alt="vawoo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vawoo&show_icons=true&locale=en" alt="vawoo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vawoo&" alt="vawoo" /></p>
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VAWOO&show_icons=true&theme=gotham&locale=en&layout=compact" alt="VAWOO" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VAWOO&show_icons=true&theme=gotham&locale=en" alt="VAWOO" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VAWOO&theme=gotham" alt="VAWOO" /></p>
