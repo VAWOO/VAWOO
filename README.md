@@ -4,7 +4,7 @@
 </a>
 <br />
 
-<h1 align="center">Hi 👋, I'm Choi Jinwoo, a developer who realizes value.</h1>
+<h1 align="center">Hi 👋, I'm Jinwoo Choi, a developer who realizes value.</h1>
 <h3 align="center">AI/ML, Computer Vision, Embedded Systems Developer</h3>
 <br />
 
